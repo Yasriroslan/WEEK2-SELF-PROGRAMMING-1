@@ -1,0 +1,110 @@
+package PART1;
+
+public class addiction {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("30 and 50 concatenated:" + 24 + 50);
+		System.out.println("30 and 50 added: " + (30+50));
+	}
+
+}
+
+package PART1;
+
+public class fact {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    System.out.println("We present the following facts for your "
+    		           + "extracurricular edification:");
+    System.out.println();
+    System.out.println("Letter in Hawaiian alphabet:12");
+    System.out.println("Dialing code for Brazil:." + 55);
+    System.out.println("Year in which Leonardo da Vinci paint"
+    		           +"the Mona Lisa ;" + 1503);
+    System.out.println("Speed of Rabbit: " + 40 + " km per hour");
+    		
+    		
+	}
+
+}
+
+package PART1;
+
+public class printMethod {
+
+	public static void main(String[] args) { 
+		Object price=1.21997;// TODO Auto-generated method stub
+		System.out.printf("%.2f",price);
+		System.out.printf("%-10.2f",price);
+	}
+
+}
+
+package PART1;
+
+public class printMethod2 {
+
+	public static void main(String[] args) {
+	int x=50; double y =6.54321;// TODO Auto-generated method stub
+	System.out.printf("Value of x is %d and value of y is %6.2f %n ",x,y);
+	}
+
+}
+
+
+package PART1;
+
+public class printMethod3 {
+
+	public static void main(String[] args) {
+	double price=15.45;	// TODO Auto-generated method stub
+	System.out.printf("%10s%10.2f" , "Total", price);
+	
+	}
+
+}
+
+package PART1;
+
+public class quickcheck {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("x:"+ 50);
+		System.out.println("y:"+ (20+60));
+		System.out.println("z:"+ 800+150);
+		
+	}
+
+}
+
+package PART1;
+
+public class quickcheck2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("\" Thank you all for"+
+		"coming to my birtday party\n tonight,\" he said "+
+		"mysteriously.");
+		
+	}
+
+}
+
+
+package PART1;
+
+public class roses {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Roses are red,\n\tViolet are blue,\n"+
+				"Sugar is sweet,\n\tBut have\" commintment issues\",\n\t" +
+				"so I'd rather just be friends\n\tAt this point in our" +
+				"relationship.");
+	}
+
+}
